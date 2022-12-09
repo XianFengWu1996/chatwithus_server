@@ -1,0 +1,13 @@
+#chat-button {
+    background-color: #7ab8df;
+    border: 1px solid rgba(0,0,0,0.5);
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    
+}
